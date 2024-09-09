@@ -1,0 +1,1469 @@
+[
+    {
+        "Country": "Afghanistan",
+        "Import": [
+            22839
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Albania",
+        "Import": [
+            37180
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Algeria",
+        "Import": [
+            24442
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Angola",
+        "Import": [
+            2172
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Import": [
+            2149292
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Armenia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Import": [
+            775636
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Austria",
+        "Import": [
+            21154
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Azerbaijan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bahamas",
+        "Import": [
+            2014
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bahrain",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bangladesh",
+        "Import": [
+            45992
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Belarus",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Belgium",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Belize",
+        "Import": [
+            4856
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Benin",
+        "Import": [
+            21461
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bhutan",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bolivia",
+        "Import": [
+            155017
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Botswana",
+        "Import": [
+            57282
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Import": [
+            592222
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Import": [
+            4128
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Bulgaria",
+        "Import": [
+            155089
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Burkina Faso",
+        "Import": [
+            144543
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Burundi",
+        "Import": [
+            9161
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "CSSR/Czech Republic (1990/1991)",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Cambodia",
+        "Import": [
+            9473
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Cameroon",
+        "Import": [
+            125541
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Import": [
+            337821
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Central African Republic",
+        "Import": [
+            103147
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Chad",
+        "Import": [
+            63358
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Chile",
+        "Import": [
+            119129
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "China",
+        "Import": [
+            688298
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Colombia",
+        "Import": [
+            74521
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Costa Rica",
+        "Import": [
+            33379
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Cote d'Ivoire",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Croatia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Cuba",
+        "Import": [
+            218742
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Cyprus",
+        "Import": [
+            8260
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "DR Congo",
+        "Import": [
+            50731
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Denmark",
+        "Import": [
+            38014
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Djibouti",
+        "Import": [
+            18300
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Dominican Republic",
+        "Import": [
+            15017
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Ecuador",
+        "Import": [
+            119239
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Egypt",
+        "Import": [
+            5539
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "El Salvador",
+        "Import": [
+            12191
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Eritrea",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Estonia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Ethiopia",
+        "Import": [
+            848078
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Finland",
+        "Import": [
+            18663
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "France",
+        "Import": [
+            276610
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Gabon",
+        "Import": [
+            20501
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Gambia",
+        "Import": [
+            80235
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Georgia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Import": [
+            159107
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Ghana",
+        "Import": [
+            22273
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Greece",
+        "Import": [
+            49695
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Guatemala",
+        "Import": [
+            39521
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Guinea",
+        "Import": [
+            54149
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Haiti",
+        "Import": [
+            16349
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Honduras",
+        "Import": [
+            50238
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Hong Kong",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Hungary",
+        "Import": [
+            57707
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Iceland",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "India",
+        "Import": [
+            1337611
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Import": [
+            990636
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Iran",
+        "Import": [
+            51813
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Iraq",
+        "Import": [
+            1256993
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Ireland",
+        "Import": [
+            54361
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Israel",
+        "Import": [
+            6899
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Import": [
+            70688
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Jamaica",
+        "Import": [
+            16752
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Import": [
+            3078
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Jordan",
+        "Import": [
+            5142
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Kazakhstan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Kenya",
+        "Import": [
+            202599
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Kuwait",
+        "Import": [
+            42866
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Laos",
+        "Import": [
+            3063
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Latvia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Lebanon",
+        "Import": [
+            13061
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Liberia",
+        "Import": [
+            11471
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Libya",
+        "Import": [
+            1967
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Lithuania",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Luxembourg",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Macedonia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Madagascar",
+        "Import": [
+            227923
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Malawi",
+        "Import": [
+            68688
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Malaysia",
+        "Import": [
+            1851692
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Mali",
+        "Import": [
+            285528
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Malta",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Mauritania",
+        "Import": [
+            23060
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Import": [
+            81842
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Moldova",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Mongolia",
+        "Import": [
+            1291382
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Morocco",
+        "Import": [
+            38018
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Mozambique",
+        "Import": [
+            22018
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Myanmar",
+        "Import": [
+            24697
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Namibia",
+        "Import": [
+            30433
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Nepal",
+        "Import": [
+            59650
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Netherlands",
+        "Import": [
+            29612
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "New Zealand",
+        "Import": [
+            293956
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Nicaragua",
+        "Import": [
+            34338
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Niger",
+        "Import": [
+            255715
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Nigeria",
+        "Import": [
+            6524249
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "North Korea",
+        "Import": [
+            10333
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Norway",
+        "Import": [
+            16396
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Oman",
+        "Import": [
+            1591
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Pakistan",
+        "Import": [
+            193790
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Palestine",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Panama",
+        "Import": [
+            10910
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Import": [
+            36607
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Paraguay",
+        "Import": [
+            356026
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Peru",
+        "Import": [
+            28339
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Philippines",
+        "Import": [
+            2108370
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Poland",
+        "Import": [
+            80810
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Portugal",
+        "Import": [
+            14675
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Qatar",
+        "Import": [
+            3443
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Rep Congo",
+        "Import": [
+            13910
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Rest of Africa",
+        "Import": [
+            32008
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Rest of Americas",
+        "Import": [
+            334205
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Rest of Asia-Pacific",
+        "Import": [
+            228627
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Rest of Europe",
+        "Import": [
+            0
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Romania",
+        "Import": [
+            37301
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Rwanda",
+        "Import": [
+            31904
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Import": [
+            42494
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Senegal",
+        "Import": [
+            170807
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Sierra Leone",
+        "Import": [
+            104729
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Singapore",
+        "Import": [
+            6
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Slovakia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Slovenia",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Somalia",
+        "Import": [
+            8332
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Import": [
+            204071
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Import": [
+            4645
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "South Sudan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Import": [
+            42043
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Sri Lanka",
+        "Import": [
+            88306
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Sudan",
+        "Import": [
+            84001
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Sweden",
+        "Import": [
+            13255
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Switzerland",
+        "Import": [
+            1795
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Syria",
+        "Import": [
+            10788
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Tajikistan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Tanzania",
+        "Import": [
+            552420
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Thailand",
+        "Import": [
+            365621
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Togo",
+        "Import": [
+            48836
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Tunisia",
+        "Import": [
+            11717
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Import": [
+            112334
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Turkmenistan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Import": [
+            40047995
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Uganda",
+        "Import": [
+            61311
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Ukraine",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Import": [
+            3045
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "United Kingdom",
+        "Import": [
+            59808
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "United States of America",
+        "Import": [
+            3913537
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Uruguay",
+        "Import": [
+            409072
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Uzbekistan",
+        "Import": [
+            "NA"
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Venezuela",
+        "Import": [
+            23909
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Vietnam",
+        "Import": [
+            52943
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Yemen",
+        "Import": [
+            12026
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Serbia",
+        "Import": [
+            60816
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Zambia",
+        "Import": [
+            55921
+        ],
+        "Export": [
+            "NA"
+        ]
+    },
+    {
+        "Country": "Zimbabwe",
+        "Import": [
+            89946
+        ],
+        "Export": [
+            "NA"
+        ]
+    }
+]
